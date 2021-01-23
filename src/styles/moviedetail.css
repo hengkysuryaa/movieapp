@@ -1,0 +1,22 @@
+.container-detail {
+    margin-left: 32px;
+    margin-right: 32px;
+}
+.detail {
+    float: left;
+}
+
+.button-style {
+  background-color: #FE6D8E;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  outline: none;
+  font-size: 40px;
+  height: 64px;
+  width: 64px;
+  cursor: pointer;
+  border-radius: 20px;
+}
