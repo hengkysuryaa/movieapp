@@ -6,6 +6,7 @@ class Metascore extends Component {
     render() {
         return (
             <div className='metascore-container'> 
+                <center><span className='metabox metafont'>86</span></center>
                 <p className='rate'>Metascore</p>
                 <p className='votes'>62 critic views</p>
             </div>
