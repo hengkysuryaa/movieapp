@@ -2,7 +2,25 @@
     margin: 20px;
     margin-right: 40px;
     display: inline-block;
-    justify-content: center;
+    left: 0px;
+    position: absolute;
+}
+
+.rate-button-container {
+    margin: 20px;
+    margin-right: 40px;
+    display: inline-block;
+    right: 0px;
+    left: 0px;
+    position: absolute;
+}
+
+.metascore-container {
+    margin: 20px;
+    margin-right: 40px;
+    display: inline-block;
+    right: 0px;
+    position: absolute;
 }
 
 .rate {

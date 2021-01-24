@@ -5,7 +5,7 @@ class RateButton extends Component {
 
     render() {
         return (
-            <div className='imdb-container'> 
+            <div className='rate-button-container'> 
                 <p className='rate'>Rate Now</p>
             </div>
         );
