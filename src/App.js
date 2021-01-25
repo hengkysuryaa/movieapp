@@ -1,23 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
+import Summary from './components/Summary';
+import Cast from './components/Cast';
+import MovieDetail from './components/MovieDetail.js';
+import GenreButton from './components/GenreButton.js';
+import Rating from './components/Rating.js';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Rating/>
+      <MovieDetail/>
+      <GenreButton/>
+      <Summary/>
+      <Cast/>
     </div>
   );
 }

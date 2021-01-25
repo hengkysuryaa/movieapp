@@ -1,0 +1,20 @@
+{
+        "title":"Ford v Ferrari",
+        "year":2019,
+        "rate":"PG-13",
+        "duration":"2h 32min",
+        "genre":[
+            {
+                "id":1,
+                "name":"Action"
+            },
+            {
+                "id":2,
+                "name":"Biography"
+            },
+            {
+                "id":3,
+                "name":"Drama"
+            }
+        ]     
+}

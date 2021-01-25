@@ -1,0 +1,28 @@
+[{
+    "id":1,
+    "firstname":"James", 
+    "lastname":"Mangold",
+    "url":"https://resizing.flixster.com/Xymn6NvryRkh-aw-KNDxMVVtrmM=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/68190/68190_v9_bb.jpg",
+    "role":"Director"
+},
+{
+    "id":2,
+    "firstname":"Matt",
+    "lastname":"Damon",
+    "url":"https://resizing.flixster.com/0aS33gRNXoW7qoCpEUyqHpS6FmI=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/44333/44333_v9_bb.jpg",
+    "role":"Caroll"
+},
+{
+    "id":3,
+    "firstname":"Christian",
+    "lastname":"Bale",
+    "url":"https://resizing.flixster.com/02Hv7DM9o-2YJZgOG2oDKF_r2_c=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/12441/12441_v9_bb.jpg",
+    "role":"Ken Miles"
+},
+{
+    "id":4,
+    "firstname":"Caitriona",
+    "lastname":"Balfe",
+    "url":"https://resizing.flixster.com/qgwBSdyf7c4LlNMzg7nS4qcLZ6Y=/100x120/v2/https://flxt.tmsimg.com/v9/AllPhotos/716722/716722_v9_bb.jpg",
+    "role":"Mollie"
+}]
