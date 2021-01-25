@@ -6,7 +6,7 @@ class ImdbRate extends Component {
     render() {
         return (
             <div className='imdb-container'> 
-                <center><span className='rating-star full-star'></span></center>
+                <center><span className='rating-star-view full-star-view'></span></center>
                 <p className='rate'>8.2/10</p>
                 <p className='votes'>150,212</p>
             </div>

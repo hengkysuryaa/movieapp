@@ -12,7 +12,7 @@ class MovieDetail extends Component {
     render () {
         return (
             <div className='container-detail'> 
-                <button className='button-style'> + </button>
+                <button className='button-view-style'>+</button>
                 <p className='movie-title'>Ford v Ferrari</p>
                 <p className='detail'>2019</p>
                 <p className='detail'>PG-13</p>

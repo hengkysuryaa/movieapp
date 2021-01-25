@@ -26,7 +26,7 @@
     line-height: 39px;
 }
 
-.button-style {
+.button-view-style {
     float: none;
     margin-top: 0px;
     float: right;
@@ -43,7 +43,7 @@
     border-radius: 20px;
 }
 
-.button-style:hover {
+.button-view-style:hover {
     color: #FE6D8E;
     background-color: white;
     border: 2px solid #FE6D8E;

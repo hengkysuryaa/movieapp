@@ -4,13 +4,16 @@ import '../styles/rating.css';
 import ImdbRate from './ImdbRate.js';
 import Metascore from './Metascore.js';
 import RateButton from './RateButton.js';
+import { HashRouter, NavLink } from 'react-router-dom';
 
 class Rating extends Component {
 
     render() {
         return (
             <div className="rating-container">
-                <img src='https://images4.alphacoders.com/104/thumb-1920-1046308.jpg' alt='ford v ferrari' className='movie-poster'/>
+                <HashRouter>
+                <NavLink to="/"><img src='https://images4.alphacoders.com/104/thumb-1920-1046308.jpg' alt='ford v ferrari' className='movie-poster'/></NavLink>
+                </HashRouter>
                 <div className='rating-bar'>
                     <ImdbRate/>
                     <RateButton/>

@@ -6,7 +6,7 @@ class RateButton extends Component {
     render() {
         return (
             <div className='rate-button-container'>
-                <center><span className='rating-star empty-star'></span></center> 
+                <center><span className='rating-star-view empty-star'></span></center> 
                 <p className='rate'>Rate This</p>
             </div>
         );

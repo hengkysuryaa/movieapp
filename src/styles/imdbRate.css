@@ -46,11 +46,11 @@
     color: #9A9BB3;
 }
 
-.rating-star {
+.rating-star-view {
     font-size: 2rem;
 }
 
-.full-star:before {
+.full-star-view:before {
     color:#FCC419;
     content: "\2605";
 }
