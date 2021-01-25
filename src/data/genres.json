@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "genre":"Action"
+    },
+    {
+        "id":2,
+        "genre":"Crime"
+    },
+    {
+        "id":3,
+        "genre":"Comedy"
+    },
+    {
+        "id":4,
+        "genre":"Drama"
+    }
+]

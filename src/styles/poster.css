@@ -1,0 +1,46 @@
+.picture {
+    height: 250px;
+    width: 150px;
+}
+
+.wrapper {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    display: flex;
+    overflow-x: auto;
+    right: 0px;
+}
+
+.wrapper::-webkit-scrollbar{
+    display: none;
+}
+
+.wrapper-item {
+    margin-right: 20px;
+}
+
+.movie-title {
+    margin-bottom: 0;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 39px;
+    color: black;
+}
+
+.rating-star {
+    font-size: 14px;
+}
+
+.full-star:before {
+    color:#FCC419;
+    content: "\2605";
+    margin-top: 5px;
+    font-family: Proxima Nova;
+    font-style: normal;
+    line-height: 22px;
+}
+
