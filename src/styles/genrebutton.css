@@ -1,6 +1,8 @@
 .container-genre {
     margin-left: 20px;
     margin-right: 0px;
+    margin-top: 15px;
+    margin-bottom: 30px;
     display: flex;
     overflow-x: auto;
 }

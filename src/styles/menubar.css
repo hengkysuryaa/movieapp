@@ -1,8 +1,10 @@
 .menu-bar-container {
     margin-left: 20px;
     margin-right: 0px;
+    margin-top: 20px;
     display: flex;
     overflow-x: auto;
+    margin-bottom: 0;
 }
 
 .menu-bar-container::-webkit-scrollbar{
@@ -19,7 +21,7 @@
     font-family: Proxima Nova;
     font-style: normal;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 32px;
     line-height: 39px;  
     opacity: 0.3;
     border: 0;
