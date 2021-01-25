@@ -1,0 +1,60 @@
+.div-cast {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.title {
+    color: black;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.firstname {
+    margin-top: 12px;
+    margin-bottom: 0px;
+    color: black;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+}
+
+.lastname {
+    margin-top: 0px;
+    margin-bottom: 4px;
+    color: black;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+}
+
+.role-name {
+    margin-top: 0px;
+    color: #9A9BB3;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+}
+
+.picture-circle {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%
+}
+
+.placeholder {
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-right: 15px;
+    display: inline-block;
+}

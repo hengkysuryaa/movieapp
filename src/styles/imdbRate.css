@@ -1,0 +1,80 @@
+.imdb-container {
+    margin-left: 40px;
+    margin-right: 40px;
+    display: inline-block;
+    position: absolute;
+}
+
+.rate-button-container {
+    margin-left: 40px;
+    margin-right: 40px;
+    display: inline-block;
+    right: 0px;
+    left: 0px;
+    position: absolute;
+}
+
+.metascore-container {
+    margin-left: 40px;
+    margin-right: 20px;
+    margin-top: 20px;
+    display: inline-block;
+    right: 0px;
+    position: absolute;
+}
+
+.rate {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #12153D;
+    margin-bottom: 0px;
+    margin-top: 5px;
+}
+
+.votes {
+    margin-top: 2px;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    color: #9A9BB3;
+}
+
+.rating-star-view {
+    font-size: 2rem;
+}
+
+.full-star-view:before {
+    color:#FCC419;
+    content: "\2605";
+}
+
+.empty-star:before {
+    color: #f0f0f0;
+    content: "\2605";
+}
+
+.metabox {
+    margin-bottom: 0px;
+    width: 28px;
+    height: 24px;
+    background-color: #51CF66;
+    border-radius: 2px;
+    display: inline-block;
+}
+
+.metafont {
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
